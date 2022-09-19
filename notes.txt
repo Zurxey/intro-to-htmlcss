@@ -1,0 +1,6 @@
+Nested Layouts Techniques:
+
+ Vertical Layouts
+https://i.imgur.com/DVvA6IH.png
+ Horizontal Layouts
+ 
